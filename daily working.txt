@@ -1,0 +1,90 @@
+-------------21-10-23-----------
+SDPLinn
+	1 - Deactive projects not show
+IManage
+	1 - Create API Get team members by department 
+
+--------------22-10-23------------------
+
+IManage
+	1 - update and delete department API - done
+	2 - update and delete designation API - done
+	3 - update and delete task API - done
+
+----------26-10-23-----------
+
+IManage
+	1 - create get users list API with group by department - done
+	2 - create delete user API - done
+	3 - modify team register API - done
+
+IManage(SPA)
+	1 - create user module - done
+	2 - create department module - done
+
+---------------------- 26-11-23--------------
+
+Imanage
+	1 - create get pending leaves API - done
+	2 - create cancel leaves API - done
+
+Intenics
+	1 - validate all field generate bill invoice - done
+	2 - disable generate invoice button after once click - done
+	3 - show only active bills - done
+
+--------------------- 10-12-23---------------
+
+IManage
+	1 - upload multiple purchase entry bill images - done
+	2 - show bill images when view purchase entry - done
+
+Consoft
+	1 - create new component based of BOQ item and import on completed boq modules.
+	2 - changes on user report side show BOQ items company wise.
+
+---------------------14-12-23--------------------
+
+IManage
+	1 - update employee detail API - done
+	2 - delete employee API - done
+
+Intenics(Bill Invoice)
+	1 - update GST % and HSN code product wise - done
+	2 - show concern person name in Quatation and Bill Invoice - done
+	3 - manage product color module (create,edit,update,delete) - done
+	3 - manage product light module (create,edit,update,delete) - done
+
+------------19-12-2023--------------
+Intenics(Bill Invoice)
+	1 - convert quatation into bill invoice code live - done
+
+----------24-12-2023--------------
+IManage
+	1 - apply validation on apply leave all fields are required - done
+	2 - modification on attendace API - done
+	3 - calculate half and full days - done
+	4 - calculate absent days till current date - done
+	5 - team members sort by department in Assending order - done 
+	6 - upload code on live server - done
+
+-------------25-12-2023------------
+IManage
+	1 - past date leave not allow - done
+	2 - add field "allot cl per month" - done 
+	3 - add remaining cl on your id automatically every month which is "allot cl per month" - done
+
+----------------25-12-2023-------------
+IManage
+	1 - get total remaining CL - done
+	2 - verify leave with CL approve - done
+	3 - calculate CL full day & half day after approve leave with CL - done
+
+IManage
+	1 - check available CL before approve Leave with CL - done
+	2 - get Used CL in current year - done
+	3 - add year and month fields in leave days module - done
+
+IManage
+	1 - modify consume CL API - done
+	2 - get yearly consume CL API - done 
